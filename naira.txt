@@ -1,1 +1,2 @@
 currency
+count = 2
